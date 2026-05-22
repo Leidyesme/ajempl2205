@@ -52,5 +52,5 @@ app.get('/programas', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`tengo un servidor que si funciona y nos escucha por un puerto que es ==>${port}<==`)
+    console.log(`tengo un servidor que si funciona ==>${port}<==`)
 })
